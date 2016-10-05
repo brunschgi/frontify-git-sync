@@ -1,0 +1,24 @@
+.m-breadcrumb {
+  overflow: hidden;
+}
+
+.m-breadcrumb__list {
+  margin-left: -10px;
+}
+
+.m-breadcrumb__item {
+  float: left;
+  display: block;
+  padding: 10px;
+}
+
+.m-breadcrumb__link {
+  font-size: 14px;
+  line-height: 1.3;
+  color: #666666;
+  text-decoration: none;
+}
+
+.m-breadcrumb__link:hover {
+  color: #999;
+}
